@@ -1,6 +1,6 @@
 # ARS-An-AWS-powered-service
 **Description of the application coded in python:**
-This is a simple computer vision application that uses aws api calls to analyse input images based on the respective service entered by user. I have included 6 services(object detection,image moderation,face recognition, celebrity recognition,detecting a specific celebrity from an image of multiple celebrities,text detection in images)to be used by the application. 
+ARS(Anytime Rekognition System) is a simple computer vision application that uses aws api calls to analyse input images based on the respective service entered by user. I have included 6 services(object detection,image moderation,face recognition, celebrity recognition,detecting a specific celebrity from an image of multiple celebrities,text detection in images)to be used by the application. 
 
 
 **Folders and files information:**
